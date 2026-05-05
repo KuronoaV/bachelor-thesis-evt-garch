@@ -1,1 +1,2 @@
 # master-thesis-evt-garch
+Data Availability Statement: The empirical analysis in this thesis utilizes proprietary index data sourced from Bloomberg. Under the Bloomberg Terminal terms of service, the raw and processed datasets cannot be publicly redistributed. Therefore, the /data directory has been excluded from this repository. The R scripts provided here demonstrate the full econometric pipeline (GARCH filtering, EVT parameter estimation, and backtesting) and can be executed using any appropriately formatted financial time-series data.
