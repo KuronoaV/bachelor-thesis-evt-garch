@@ -13,9 +13,7 @@
 # the choice defended in Section 4.4 and supported by the diagnostics of
 # script 04. Maximum-likelihood estimates of the scale and shape parameters
 # are reported with robust Wald standard errors derived from the inverse
-# Hessian, together with t-statistics and p-values. A shape estimate around
-# 0.1-0.2 is the expected order of magnitude for daily equity returns; a
-# significantly negative shape would contradict the heavy-tail premise.
+# Hessian, together with t-statistics and p-values.
 #
 # The accompanying graphical diagnostic is the GPD QQ plot, drawn on the
 # excesses Y_j = L_j - u for L_j > u. Departure of the empirical excesses
